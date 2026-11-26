@@ -8,6 +8,7 @@
 - 단계별 확인 문제 10문항(총 110문항, [QUIZ.md](QUIZ.md))과 해설, 학생 결과 내보내기, 교수용 결과 화면·CSV
 - 근거 검색: PubMed(NCBI E-utilities 직접 호출), PEDro·Consensus·SciSpace 바로가기. PMID·PMCID·DOI를 표시하고 초록을 한국어로 번역한다(MyMemory).
 - 학생 필기, 용어 찾기, 교수용 내용 수정(Ctrl/⌘+Shift+E)
+- 💾 백업 · 📂 복원: 필기·메모·문제 응답·근거 검색·수정 내용을 JSON 파일 하나로 저장하고 다른 기기·브라우저에서 되살린다
 
 ## 실행
 정적 파일 하나(`index.html`)로 되어 있다. 브라우저로 열거나 Vercel 등 정적 호스팅에 올리면 된다.
